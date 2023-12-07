@@ -1,0 +1,94 @@
+E:\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\bin\Debug\PhanMemQuanLiQuanCafe.exe.config
+E:\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\bin\Debug\PhanMemQuanLiQuanCafe.exe
+E:\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\bin\Debug\PhanMemQuanLiQuanCafe.pdb
+E:\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\obj\Debug\PhanMemQuanLiQuanCafe.csproj.AssemblyReference.cache
+E:\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\obj\Debug\PhanMemQuanLiQuanCafe.FormDangNhap.resources
+E:\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\obj\Debug\PhanMemQuanLiQuanCafe.Properties.Resources.resources
+E:\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\obj\Debug\PhanMemQuanLiQuanCafe.csproj.GenerateResource.cache
+E:\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\obj\Debug\PhanMemQuanLiQuanCafe.csproj.CoreCompileInputs.cache
+E:\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\obj\Debug\PhanMemQuanLiQuanCafe.exe
+E:\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\obj\Debug\PhanMemQuanLiQuanCafe.pdb
+E:\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\obj\Debug\PhanMemQuanLiQuanCafe.FormMain.resources
+E:\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\obj\Debug\PhanMemQuanLiQuanCafe.fAccountProfile.resources
+E:\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\obj\Debug\PhanMemQuanLiQuanCafe.fAdmin.resources
+D:\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\bin\Debug\PhanMemQuanLiQuanCafe.exe.config
+D:\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\bin\Debug\PhanMemQuanLiQuanCafe.exe
+D:\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\bin\Debug\PhanMemQuanLiQuanCafe.pdb
+D:\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\obj\Debug\PhanMemQuanLiQuanCafe.csproj.AssemblyReference.cache
+D:\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\obj\Debug\PhanMemQuanLiQuanCafe.csproj.SuggestedBindingRedirects.cache
+D:\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\obj\Debug\PhanMemQuanLiQuanCafe.fAccountProfile.resources
+D:\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\obj\Debug\PhanMemQuanLiQuanCafe.fAdmin.resources
+D:\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\obj\Debug\PhanMemQuanLiQuanCafe.FormDangNhap.resources
+D:\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\obj\Debug\PhanMemQuanLiQuanCafe.FormMain.resources
+D:\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\obj\Debug\PhanMemQuanLiQuanCafe.Properties.Resources.resources
+D:\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\obj\Debug\PhanMemQuanLiQuanCafe.csproj.GenerateResource.cache
+D:\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\obj\Debug\PhanMemQuanLiQuanCafe.csproj.CoreCompileInputs.cache
+D:\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\obj\Debug\PhanMemQuanLiQuanCafe.exe
+D:\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\obj\Debug\PhanMemQuanLiQuanCafe.pdb
+C:\Users\Admin\Downloads\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\bin\Debug\PhanMemQuanLiQuanCafe.exe.config
+C:\Users\Admin\Downloads\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\bin\Debug\PhanMemQuanLiQuanCafe.exe
+C:\Users\Admin\Downloads\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\bin\Debug\PhanMemQuanLiQuanCafe.pdb
+C:\Users\Admin\Downloads\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\obj\Debug\PhanMemQuanLiQuanCafe.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\obj\Debug\PhanMemQuanLiQuanCafe.fAccountProfile.resources
+C:\Users\Admin\Downloads\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\obj\Debug\PhanMemQuanLiQuanCafe.fAdmin.resources
+C:\Users\Admin\Downloads\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\obj\Debug\PhanMemQuanLiQuanCafe.FormDangNhap.resources
+C:\Users\Admin\Downloads\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\obj\Debug\PhanMemQuanLiQuanCafe.FormMain.resources
+C:\Users\Admin\Downloads\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\obj\Debug\PhanMemQuanLiQuanCafe.Properties.Resources.resources
+C:\Users\Admin\Downloads\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\obj\Debug\PhanMemQuanLiQuanCafe.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\obj\Debug\PhanMemQuanLiQuanCafe.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\obj\Debug\PhanMemQuanLiQuanCafe.exe
+C:\Users\Admin\Downloads\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\obj\Debug\PhanMemQuanLiQuanCafe.pdb
+D:\PhanMemQuanLiQuanCafe (1)\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\bin\Debug\PhanMemQuanLiQuanCafe.exe.config
+D:\PhanMemQuanLiQuanCafe (1)\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\bin\Debug\PhanMemQuanLiQuanCafe.exe
+D:\PhanMemQuanLiQuanCafe (1)\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\bin\Debug\PhanMemQuanLiQuanCafe.pdb
+D:\PhanMemQuanLiQuanCafe (1)\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\obj\Debug\PhanMemQuanLiQuanCafe.csproj.AssemblyReference.cache
+D:\PhanMemQuanLiQuanCafe (1)\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\obj\Debug\PhanMemQuanLiQuanCafe.csproj.SuggestedBindingRedirects.cache
+D:\PhanMemQuanLiQuanCafe (1)\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\obj\Debug\PhanMemQuanLiQuanCafe.fAccountProfile.resources
+D:\PhanMemQuanLiQuanCafe (1)\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\obj\Debug\PhanMemQuanLiQuanCafe.fAdmin.resources
+D:\PhanMemQuanLiQuanCafe (1)\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\obj\Debug\PhanMemQuanLiQuanCafe.FormDangNhap.resources
+D:\PhanMemQuanLiQuanCafe (1)\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\obj\Debug\PhanMemQuanLiQuanCafe.FormMain.resources
+D:\PhanMemQuanLiQuanCafe (1)\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\obj\Debug\PhanMemQuanLiQuanCafe.Properties.Resources.resources
+D:\PhanMemQuanLiQuanCafe (1)\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\obj\Debug\PhanMemQuanLiQuanCafe.csproj.GenerateResource.cache
+D:\PhanMemQuanLiQuanCafe (1)\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\obj\Debug\PhanMemQuanLiQuanCafe.csproj.CoreCompileInputs.cache
+D:\PhanMemQuanLiQuanCafe (1)\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\obj\Debug\PhanMemQuanLiQuanCafe.exe
+D:\PhanMemQuanLiQuanCafe (1)\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\obj\Debug\PhanMemQuanLiQuanCafe.pdb
+E:\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe (1)\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\bin\Debug\PhanMemQuanLiQuanCafe.exe.config
+E:\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe (1)\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\bin\Debug\PhanMemQuanLiQuanCafe.exe
+E:\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe (1)\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\bin\Debug\PhanMemQuanLiQuanCafe.pdb
+E:\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe (1)\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\obj\Debug\PhanMemQuanLiQuanCafe.csproj.AssemblyReference.cache
+E:\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe (1)\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\obj\Debug\PhanMemQuanLiQuanCafe.fAccountProfile.resources
+E:\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe (1)\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\obj\Debug\PhanMemQuanLiQuanCafe.fAdmin.resources
+E:\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe (1)\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\obj\Debug\PhanMemQuanLiQuanCafe.FormDangNhap.resources
+E:\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe (1)\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\obj\Debug\PhanMemQuanLiQuanCafe.FormMain.resources
+E:\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe (1)\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\obj\Debug\PhanMemQuanLiQuanCafe.Properties.Resources.resources
+E:\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe (1)\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\obj\Debug\PhanMemQuanLiQuanCafe.csproj.GenerateResource.cache
+E:\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe (1)\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\obj\Debug\PhanMemQuanLiQuanCafe.csproj.CoreCompileInputs.cache
+E:\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe (1)\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\obj\Debug\PhanMemQuanLiQuanCafe.exe
+E:\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe (1)\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\obj\Debug\PhanMemQuanLiQuanCafe.pdb
+E:\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\bin\Debug\PhanMemQuanLiQuanCafe.exe.config
+E:\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\bin\Debug\PhanMemQuanLiQuanCafe.exe
+E:\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\bin\Debug\PhanMemQuanLiQuanCafe.pdb
+E:\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\obj\Debug\PhanMemQuanLiQuanCafe.csproj.AssemblyReference.cache
+E:\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\obj\Debug\PhanMemQuanLiQuanCafe.fAccountProfile.resources
+E:\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\obj\Debug\PhanMemQuanLiQuanCafe.fAdmin.resources
+E:\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\obj\Debug\PhanMemQuanLiQuanCafe.FormDangNhap.resources
+E:\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\obj\Debug\PhanMemQuanLiQuanCafe.FormMain.resources
+E:\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\obj\Debug\PhanMemQuanLiQuanCafe.Properties.Resources.resources
+E:\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\obj\Debug\PhanMemQuanLiQuanCafe.csproj.GenerateResource.cache
+E:\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\obj\Debug\PhanMemQuanLiQuanCafe.csproj.CoreCompileInputs.cache
+E:\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\obj\Debug\PhanMemQuanLiQuanCafe.exe
+E:\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\obj\Debug\PhanMemQuanLiQuanCafe.pdb
+E:\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\obj\Debug\PhanMemQuanLiQuanCafe.csproj.SuggestedBindingRedirects.cache
+D:\all-lq-den-hoc\Kì 5\PT UD vs CSDL\BTL\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\bin\Debug\PhanMemQuanLiQuanCafe.exe.config
+D:\all-lq-den-hoc\Kì 5\PT UD vs CSDL\BTL\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\bin\Debug\PhanMemQuanLiQuanCafe.exe
+D:\all-lq-den-hoc\Kì 5\PT UD vs CSDL\BTL\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\bin\Debug\PhanMemQuanLiQuanCafe.pdb
+D:\all-lq-den-hoc\Kì 5\PT UD vs CSDL\BTL\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\obj\Debug\PhanMemQuanLiQuanCafe.csproj.AssemblyReference.cache
+D:\all-lq-den-hoc\Kì 5\PT UD vs CSDL\BTL\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\obj\Debug\PhanMemQuanLiQuanCafe.fAccountProfile.resources
+D:\all-lq-den-hoc\Kì 5\PT UD vs CSDL\BTL\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\obj\Debug\PhanMemQuanLiQuanCafe.fAdmin.resources
+D:\all-lq-den-hoc\Kì 5\PT UD vs CSDL\BTL\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\obj\Debug\PhanMemQuanLiQuanCafe.FormDangNhap.resources
+D:\all-lq-den-hoc\Kì 5\PT UD vs CSDL\BTL\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\obj\Debug\PhanMemQuanLiQuanCafe.FormMain.resources
+D:\all-lq-den-hoc\Kì 5\PT UD vs CSDL\BTL\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\obj\Debug\PhanMemQuanLiQuanCafe.Properties.Resources.resources
+D:\all-lq-den-hoc\Kì 5\PT UD vs CSDL\BTL\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\obj\Debug\PhanMemQuanLiQuanCafe.csproj.GenerateResource.cache
+D:\all-lq-den-hoc\Kì 5\PT UD vs CSDL\BTL\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\obj\Debug\PhanMemQuanLiQuanCafe.csproj.CoreCompileInputs.cache
+D:\all-lq-den-hoc\Kì 5\PT UD vs CSDL\BTL\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\obj\Debug\PhanMemQuanLiQuanCafe.exe
+D:\all-lq-den-hoc\Kì 5\PT UD vs CSDL\BTL\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\obj\Debug\PhanMemQuanLiQuanCafe.pdb

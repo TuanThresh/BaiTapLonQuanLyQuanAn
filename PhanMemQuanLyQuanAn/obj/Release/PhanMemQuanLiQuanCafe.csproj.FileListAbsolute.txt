@@ -1,0 +1,26 @@
+E:\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\bin\Release\PhanMemQuanLiQuanCafe.exe.config
+E:\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\bin\Release\PhanMemQuanLiQuanCafe.exe
+E:\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\bin\Release\PhanMemQuanLiQuanCafe.pdb
+E:\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\obj\Release\PhanMemQuanLiQuanCafe.csproj.AssemblyReference.cache
+E:\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\obj\Release\PhanMemQuanLiQuanCafe.fAccountProfile.resources
+E:\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\obj\Release\PhanMemQuanLiQuanCafe.fAdmin.resources
+E:\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\obj\Release\PhanMemQuanLiQuanCafe.FormDangNhap.resources
+E:\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\obj\Release\PhanMemQuanLiQuanCafe.FormMain.resources
+E:\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\obj\Release\PhanMemQuanLiQuanCafe.Properties.Resources.resources
+E:\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\obj\Release\PhanMemQuanLiQuanCafe.csproj.GenerateResource.cache
+E:\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\obj\Release\PhanMemQuanLiQuanCafe.csproj.CoreCompileInputs.cache
+E:\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\obj\Release\PhanMemQuanLiQuanCafe.exe
+E:\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\obj\Release\PhanMemQuanLiQuanCafe.pdb
+E:\HỌC KỲ 4\Lập trình Win\Giáo trình\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\bin\Release\PhanMemQuanLiQuanCafe.exe.config
+E:\HỌC KỲ 4\Lập trình Win\Giáo trình\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\bin\Release\PhanMemQuanLiQuanCafe.exe
+E:\HỌC KỲ 4\Lập trình Win\Giáo trình\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\bin\Release\PhanMemQuanLiQuanCafe.pdb
+E:\HỌC KỲ 4\Lập trình Win\Giáo trình\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\obj\Release\PhanMemQuanLiQuanCafe.csproj.AssemblyReference.cache
+E:\HỌC KỲ 4\Lập trình Win\Giáo trình\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\obj\Release\PhanMemQuanLiQuanCafe.fAccountProfile.resources
+E:\HỌC KỲ 4\Lập trình Win\Giáo trình\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\obj\Release\PhanMemQuanLiQuanCafe.fAdmin.resources
+E:\HỌC KỲ 4\Lập trình Win\Giáo trình\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\obj\Release\PhanMemQuanLiQuanCafe.FormDangNhap.resources
+E:\HỌC KỲ 4\Lập trình Win\Giáo trình\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\obj\Release\PhanMemQuanLiQuanCafe.FormMain.resources
+E:\HỌC KỲ 4\Lập trình Win\Giáo trình\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\obj\Release\PhanMemQuanLiQuanCafe.Properties.Resources.resources
+E:\HỌC KỲ 4\Lập trình Win\Giáo trình\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\obj\Release\PhanMemQuanLiQuanCafe.csproj.GenerateResource.cache
+E:\HỌC KỲ 4\Lập trình Win\Giáo trình\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\obj\Release\PhanMemQuanLiQuanCafe.csproj.CoreCompileInputs.cache
+E:\HỌC KỲ 4\Lập trình Win\Giáo trình\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\obj\Release\PhanMemQuanLiQuanCafe.exe
+E:\HỌC KỲ 4\Lập trình Win\Giáo trình\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\PhanMemQuanLiQuanCafe\obj\Release\PhanMemQuanLiQuanCafe.pdb
